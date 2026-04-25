@@ -102,7 +102,6 @@ theme: custom.scss
 <!-- MAPA 3 (Fila 1, columna 1 - Casos) -->
 ::: grid-card
 2023-2025
-
 ```{r casos_2023_2025,echo=FALSE}
 load("~/Library/CloudStorage/Dropbox/hotspots_2025/8.RData/denmex_chains.RData")
 source("~/Library/CloudStorage/Dropbox/r_developments/r_dashboards/netlify/1.2.persisten_dengue_transmission_2026/persistent_dengue_transmission_05_coahuila/mp_transmission_chains.R")
